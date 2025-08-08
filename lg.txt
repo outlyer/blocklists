@@ -1,0 +1,87 @@
+us.rdx2.lgtvsdp.com
+us.info.lgsmartad.com
+us.ibs.lgappstv.com
+# us.lgtvsdp.com
+ad.lgappstv.com
+smartshare.lgtvsdp.com
+ibis.lgappstv.com
+
+# added after fork
+# from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
+us.ad.lgsmartad.com
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+yumenetworks.com
+smartclip.net
+smartclip.com
+
+# non us
+rdx2.lgtvsdp.com
+info.lgsmartad.com
+ibs.lgappstv.com
+# lgtvsdp.com
+lgappstv.com
+smartshare.lgtvsdp.com
+lgappstv.com
+
+# full block
+de.info.lgsmartad.com
+de.ibs.lgappstv.com
+de.ad.lgsmartad.com
+eu.info.lgsmartad.com
+eu.ibs.lgappstv.com
+eu.ad.lgsmartad.com
+app-lgwebos.pluto.tv
+de.emp.lgsmartplatform.com
+de.ibs.lgappstv.com
+de.lgeapi.com
+de.lgtvsdp.com
+de.rdx2.lgtvsdp.com
+eic-common.lgthinq.com
+eic-iotservice.lgthinq.com
+eic-service.lgthinq.com
+eic-ngfts.lge.com
+eic-svc-lgthinq-com.aws-thinq-prd.net
+eic.cdpsvc.lgtvcommon.com
+eic.cdpbeacon.lgtvcommon.com
+eic.cdplauncher.lgtvcommon.com
+eic.homeprv.lgtvcommon.com
+#eic.lgtviot.com
+eic.nudge.lgtvcommon.com
+eic.rdl.lgtvcommon.com
+eic.recommend.lgtvcommon.com
+eic.service.lgtvcommon.com
+gb-lgeapi-com.esi-prd.net
+gb.lgeapi.com
+lgtvonline.lge.com
+lg-channelplus-de-beacons.xumo.com
+lg-channelplus-de-mds.xumo.com
+lg-channelplus-eu-beacons.xumo.com
+lg-channelplus-eu-mds.xumo.com
+kr-op-v2.lgthinqhome.com
+noti.lgthinq.com
+objectcontent.lgthinq.com
+
+# Update server
+snu.lge.com
+us.lgtvsdp.com 
+lgtvonline.lge.com 
+snu.lge.com
+
+# More blocks
+*.lg.com
+*.lgincdnmsftuswe2.azureedge.net
+*.lgincdnvzeuno.azureedge.net
+*.digitalguardian.com
+*.lgsmartplatform.com
+*.lgeapi.com
+*.lgsmartad.com
+*.partner.netflix.net
+*.lgtviot.com
+*.lgthinq.com
+*.lge.com
+*.lgtvcommon.com
+*.lgtvsdp.com
+*.meethue.com
+*.lgincdnmsftuswe2.azureedge.net
+*.lgincdnvzeuno.azureedge.net
