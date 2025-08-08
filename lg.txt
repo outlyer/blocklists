@@ -82,6 +82,5 @@ snu.lge.com
 *.lge.com
 *.lgtvcommon.com
 *.lgtvsdp.com
-*.meethue.com
 *.lgincdnmsftuswe2.azureedge.net
 *.lgincdnvzeuno.azureedge.net
